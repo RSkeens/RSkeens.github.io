@@ -1,0 +1,26 @@
+# Dependencies
+#markdown:         redcarpet
+#highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            My Prague Life
+tagline:          'I love Prague'
+description:      'I love Prague'
+url:              http://mypraguelife.com
+baseurl:          /
+
+author:
+  name:           'Roscoe Skeens'
+  url:            http://mypraguelife.com
+
+paginate:         5
+
+# Custom vars
+version:          1
+
+github:
+  repo:           https://github.com/rskeens/rskeens.github.io
